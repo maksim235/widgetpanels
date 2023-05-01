@@ -1,0 +1,17 @@
+.modal_input_1 {
+    
+}
+
+.modal_input_2 {
+    display: flex;
+    justify-content: right;
+}
+
+.modal_icon {
+    width: 24px;
+}
+
+.container_icon {
+    display: flex;
+    flex-wrap: wrap;
+}
