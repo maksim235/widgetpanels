@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/widgetpanels/static/css/main.514ce1d7.css",
-    "main.js": "/widgetpanels/static/js/main.95404ed9.js",
-    "static/media/imj3.png": "/widgetpanels/static/media/imj3.73d7d7af994b968b7fd2.png",
-    "static/media/img4.png": "/widgetpanels/static/media/img4.bf778c467ecc9defcb1d.png",
-    "static/media/img2.png": "/widgetpanels/static/media/img2.7f179350a67d6c6705ab.png",
+    "main.css": "/widgetpanels/static/css/main.5710335b.css",
+    "main.js": "/widgetpanels/static/js/main.ff80ba39.js",
+    "static/media/img3.png": "/widgetpanels/static/media/img3.981079ad8844953e34d1.png",
+    "static/media/img1.png": "/widgetpanels/static/media/img1.73d022e44c07f0727824.png",
+    "static/media/img2.png": "/widgetpanels/static/media/img2.4fcacc789706c761c6ea.png",
+    "static/media/GothamPro-Light.ttf": "/widgetpanels/static/media/GothamPro-Light.dfbba8c980f43420d2d1.ttf",
     "static/media/imj1.png": "/widgetpanels/static/media/imj1.474523357eaadff67c4d.png",
-    "index.html": "/widgetpanels/index.html",
-    "main.514ce1d7.css.map": "/widgetpanels/static/css/main.514ce1d7.css.map",
-    "main.95404ed9.js.map": "/widgetpanels/static/js/main.95404ed9.js.map"
+    "index.html": "/widgetpanels/index.html"
   },
   "entrypoints": [
-    "static/css/main.514ce1d7.css",
-    "static/js/main.95404ed9.js"
+    "static/css/main.5710335b.css",
+    "static/js/main.ff80ba39.js"
   ]
 }
